@@ -2,7 +2,7 @@
 
 The framework of our paper is presented as
 
-![framework](.\framework.png)
+![framework](./framework.png)
 
 ## Diffusion-based AIGC model
 
