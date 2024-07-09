@@ -1,0 +1,14 @@
+CITY_W = 4000
+CITY_L = 4000
+SITE_W = 200
+SITE_L = 200
+SITE_COUNT = 20
+SITE_MACHINES = 10    # 3 Excavator, 1 bulldozer, 2 crane tower 1 trucks
+EDGE_SERVER = 30
+NOMA_MIN = 5  # Mbps
+NOMA_MAX = 100  # Mbps
+RELAY_MIN = 1  # ms
+RELAY_MAX = 3   # ms
+RANDOM_SEED = 100
+SMALL_PERCENTAGE = 0.4
+CONTRACT_PERCENTAGE = 0.4
