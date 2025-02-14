@@ -138,5 +138,5 @@ def oracle_difficulty():
 
 
 if __name__ == '__main__':
-    oracle_difficulty()
+    # oracle_difficulty()
     contract_test()

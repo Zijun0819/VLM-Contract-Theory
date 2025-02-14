@@ -9,7 +9,7 @@ data:
     ckpt_dir: "ckpt\\"
     eval_dir: "data\\Image_restoration\\LL_dataset\\Construction\\eval"
     conditional: True
-    data_volume: M
+    data_volume: L
 
 model:
     in_channels: 3
